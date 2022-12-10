@@ -1,4 +1,4 @@
-**CRA with redux-saga and typescript**
+**CRA with redux-saga**
  > yarn create react-app my-app --typescript
 
  > yarn start
